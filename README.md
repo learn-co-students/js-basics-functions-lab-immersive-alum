@@ -7,7 +7,7 @@ also received a few requests.
 
 First, Scuber's executives want to ensure that Scuber's headquarters is near
 its customers. They would like you to write a function that takes in a pickup location
-for a passenger, and returns the number of blocks from it's headquarters on
+for a passenger, and returns the number of blocks from its headquarters on
 42nd street. This can be used for another function that translates the number
 of blocks from headquarters to the distance in feet.
 
